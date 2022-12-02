@@ -1,0 +1,32 @@
+.bodycontainer {
+    background: darkslategrey;
+  }
+
+.titulo {
+    color:green ;
+    font-size: 50px;"
+}
+
+.manzana {
+    color:red;
+}
+
+.platano {
+    color:gold ;
+}
+
+.pollo {
+    color: pink;
+}
+
+.molida {
+    color: brown;
+}
+
+.limon {
+    color: darkgreen;
+}
+
+.zanahoria {
+    color: orange;
+}
